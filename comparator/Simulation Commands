@@ -1,0 +1,1 @@
+iverilog -o comparator src/comparator.v tb/comparator_tb.v
